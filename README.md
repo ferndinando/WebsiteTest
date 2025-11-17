@@ -1,2 +1,0 @@
-# WebsiteTest
-My simple websites
